@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+  .footer {
+    background-color: #E0F2E9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.footer-content ul {
+    list-style: none;
+    padding: 0;
+}
+
+body {
+    background-color: beige !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
